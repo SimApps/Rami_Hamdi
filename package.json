@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterportfolio",
-  "homepage": "http://.",
+  "homepage": "https://github.com/SimApps/Rami_Hamdi",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
