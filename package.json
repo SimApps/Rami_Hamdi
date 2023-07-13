@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "masterportfolio",
-  "homepage": "https://github.com/SimApps/Rami_Hamdi.git",
+  "name": "ramihamdifolio",
+  "homepage": "https://simapps.github.io/Rami_Hamdi/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
@@ -10,8 +10,6 @@
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
-
-    
   },
   "dependencies": {
     "@apollo/react-hooks": "^3.1.3",
