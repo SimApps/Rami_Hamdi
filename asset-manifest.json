@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Rami_Hamdi/static/css/main.949299fd.css",
-    "main.js": "/Rami_Hamdi/static/js/main.35cef97d.js",
+    "main.css": "/Rami_Hamdi/static/css/main.5188a757.css",
+    "main.js": "/Rami_Hamdi/static/js/main.9a5f5749.js",
     "static/media/fa-solid-900.svg": "/Rami_Hamdi/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/Rami_Hamdi/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/Montserrat-Regular.ttf": "/Rami_Hamdi/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -51,11 +51,11 @@
     "static/media/googleAssistant.svg": "/Rami_Hamdi/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/Rami_Hamdi/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/Rami_Hamdi/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.949299fd.css.map": "/Rami_Hamdi/static/css/main.949299fd.css.map",
-    "main.35cef97d.js.map": "/Rami_Hamdi/static/js/main.35cef97d.js.map"
+    "main.5188a757.css.map": "/Rami_Hamdi/static/css/main.5188a757.css.map",
+    "main.9a5f5749.js.map": "/Rami_Hamdi/static/js/main.9a5f5749.js.map"
   },
   "entrypoints": [
-    "static/css/main.949299fd.css",
-    "static/js/main.35cef97d.js"
+    "static/css/main.5188a757.css",
+    "static/js/main.9a5f5749.js"
   ]
 }
