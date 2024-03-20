@@ -500,7 +500,7 @@ const experience = {
           company: "All Soft Multimedia",
           company_url: "https://www.asm-tunisie.com/",
           logo_path: "asm_logo.png",
-          duration: "Since July 2021",
+          duration: "Since July 2022",
           location: "Remote",
           description:
             "Building new features, fixing bugs and try to improve overall performance. Now I'm writing a complete Android Application in jetpack compose for products inventory and sales. Interfaced with clients on a weekly basis, providing technological expertise.",
@@ -512,7 +512,7 @@ const experience = {
           company: "Ministry of Defence Tunisia",
           company_url: "http://www.csn.defense.tn/index.php/en",
           logo_path: "defence_tunisia.jpg",
-          duration: "July 2020 - Aug 2021",
+          duration: "July 2020 - November 2023",
           location: "Bizerte, Tunisia",
           description:
             "Responsible for the accountability, mission readiness, and professional development of all personnel within my company. Safety and risk management; Perform facility and field inspections. Provided technical and tactical guidance to help both commanding officers and subordinates in completing several missions. Initiate administrative actions on assigned Soldiers; Responsible for the mission readiness of equipment and property accountability. Professional counseling, evaluations, and promotion determinations.Perform facility and field inspections. Conduct inspections (control safety and security measures). Supervise platoon leaders. ",
