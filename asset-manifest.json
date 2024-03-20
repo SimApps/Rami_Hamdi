@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Rami_Hamdi/static/css/main.5188a757.css",
-    "main.js": "/Rami_Hamdi/static/js/main.af39daf5.js",
+    "main.js": "/Rami_Hamdi/static/js/main.a9946431.js",
     "static/media/fa-solid-900.svg": "/Rami_Hamdi/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/Rami_Hamdi/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/Montserrat-Regular.ttf": "/Rami_Hamdi/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/isg_logo.svg": "/Rami_Hamdi/static/media/isg_logo.8beb13fda23778f38231.svg",
+    "static/media/isg_logo.svg": "/Rami_Hamdi/static/media/isg_logo.01f647dbedf68b6aa999.svg",
     "static/media/fa-solid-900.eot": "/Rami_Hamdi/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "/Rami_Hamdi/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
     "static/media/centre_formation_marine_inf.png": "/Rami_Hamdi/static/media/centre_formation_marine_inf.223aa003e4a7fe4462c1.png",
@@ -46,16 +46,17 @@
     "static/media/fa-regular-400.woff2": "/Rami_Hamdi/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/osha.jpg": "/Rami_Hamdi/static/media/osha.d91c6e9f9bcd40176257.jpg",
     "static/media/blogs_image.svg": "/Rami_Hamdi/static/media/blogs_image.08bcc48d9a3783389c93.svg",
+    "static/media/logo-dnd.webp": "/Rami_Hamdi/static/media/logo-dnd.6c8d98e7668a1b3d5ea4.webp",
     "static/media/education.svg": "/Rami_Hamdi/static/media/education.d5cc42f042227db12468.svg",
     "index.html": "/Rami_Hamdi/index.html",
     "static/media/googleAssistant.svg": "/Rami_Hamdi/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/Rami_Hamdi/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/Rami_Hamdi/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.5188a757.css.map": "/Rami_Hamdi/static/css/main.5188a757.css.map",
-    "main.af39daf5.js.map": "/Rami_Hamdi/static/js/main.af39daf5.js.map"
+    "main.a9946431.js.map": "/Rami_Hamdi/static/js/main.a9946431.js.map"
   },
   "entrypoints": [
     "static/css/main.5188a757.css",
-    "static/js/main.af39daf5.js"
+    "static/js/main.a9946431.js"
   ]
 }
