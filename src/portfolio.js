@@ -22,8 +22,10 @@ const greeting = {
   title: "Rami Hamdi",
   logo_name: "RamiHamdi",
   nickname: "SimApp",
-  subTitle:   "A passionate individual who always eager to learn and create an impact.",
-  resumeLink: "https://drive.google.com/file/d/1kgxLKiV26b5Z3za7uUKDsZy7XbpGMWep/view?usp=sharing",
+  subTitle:
+    "A passionate individual who always eager to learn and create an impact.",
+  resumeLink:
+    "https://drive.google.com/file/d/1Y3ftx8KswX5JcMyoIkfwLbHLGa03fjcx/view?usp=sharing",
   portfolio_repository: "https://simapps.github.io/rami_hamdi_blog/",
   githubProfile: "https://github.com/SimApps",
 };
@@ -50,7 +52,7 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
- /* {
+  /* {
     name: "YouTube",
     link: "https://youtube.com",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
@@ -62,7 +64,7 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
- /* {
+  /* {
     name: "Twitter",
     link: "https://twitter.com",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
@@ -74,7 +76,7 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
- /* {
+  /* {
     name: "Instagram",
     link: "https://www.instagram.com",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
@@ -105,7 +107,7 @@ const skills = {
           fontAwesomeClassname: "logos:android",
           style: {
             backgroundColor: "transparent",
-           // color: "#D00000",
+            // color: "#D00000",
           },
         },
         {
@@ -138,8 +140,8 @@ const skills = {
         },
         {
           skillName: "Jetpack Compose",
-        //  imageSrc: "deeplearning_ai_logo.png",
-        fontAwesomeClassname: "simple-icons:jetpackcompose",
+          //  imageSrc: "deeplearning_ai_logo.png",
+          fontAwesomeClassname: "simple-icons:jetpackcompose",
         },
       ],
     },
@@ -149,7 +151,7 @@ const skills = {
       skills: [
         "⚡ Proficient in planning, developing, and implementing emergency preparedness plans and conducting mock drills that comply with standards and requirements",
         "⚡ During my military service, I developed the ability to conduct risk assessments, investigate incidents and accidents, prepare reports, and schedule and conduct training",
-        "⚡ Deliver engineers point of view to identify and apply the suitable control measures against various hazards to achieve zero incidents in the workplace"
+        "⚡ Deliver engineers point of view to identify and apply the suitable control measures against various hazards to achieve zero incidents in the workplace",
       ],
       softwareSkills: [
         {
@@ -166,14 +168,13 @@ const skills = {
             color: "#1572B6",
           },
         },
-        
       ],
     },
     {
       title: "Navy Special Forces Officer",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Former Navy Special Forces Officer with proven experience in leading and executing special operations missions", 
+        "⚡ Former Navy Special Forces Officer with proven experience in leading and executing special operations missions",
         "⚡ Joint Military Operations, Risk Management, Military Engineering, and Maintenance Management",
         "⚡ Team leader, program manager and analyst",
         "⚡ Acting as a liaison officer",
@@ -193,8 +194,6 @@ const skills = {
             color: "#FF9900",
           },
         },
-        
-      
       ],
     },
     {
@@ -206,14 +205,13 @@ const skills = {
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
-        
         {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
           style: {
             color: "#F24E1E",
           },
-        }
+        },
       ],
     },
   ],
@@ -246,7 +244,7 @@ const competitiveSites = {
       },
       profileLink: "https://www.codechef.com/users/ramihamdi",
     },
-   /* {
+    /* {
       siteName: "Codeforces",
       iconifyClassname: "simple-icons:codeforces",
       style: {
@@ -277,7 +275,8 @@ const degrees = {
   degrees: [
     {
       title: "Tunis Higher Institute of Management",
-      subtitle: "Master In Integrated Management Quality, Safety and Environment",
+      subtitle:
+        "Master In Integrated Management Quality, Safety and Environment",
       logo_path: "isg_logo.svg",
       alt_name: "ISG Tunis",
       duration: "2018 - 2020",
@@ -296,7 +295,7 @@ const degrees = {
       duration: "2019 - 2020",
       descriptions: [
         "⚡ I have taken varity of courses related to Armement, Maritime operation's planning, military logistics, etc.",
-       // "⚡ Apart from this, I have also done Logistic Courses.",
+        // "⚡ Apart from this, I have also done Logistic Courses.",
       ],
       website_link: "http://www.csn.defense.tn/index.php/en",
     },
@@ -323,20 +322,19 @@ const degrees = {
         "⚡ Testing and evaluation: Assessing weapon performance and safety.",
         "⚡ Materials and manufacturing: Knowledge of materials properties and manufacturing techniques.",
         "⚡ Weapons designs and developments: Creating and improving weapons systems.",
-        "⚡ End of Study Project ⚡ Design and implement a system that fix small weapons on shooting carriage"
+        "⚡ End of Study Project ⚡ Design and implement a system that fix small weapons on shooting carriage",
       ],
       website_link: "http://www.csn.defense.tn/index.php/en",
     },
-      {
-        title: "Tunisia Preparatory School for the Military Academies",
-        subtitle: "Bachelor License in Physics-Chemistry",
-        logo_path: "epams_logo.jpg",
-        alt_name: "EPAMS",
-        duration: "2010 - 2012",
-        descriptions: [
-          "⚡  I have taken varity of courses related to Algebra, Mathematics, Chemistry, Physics, computer science, industrial science etc.",
-
-        ],
+    {
+      title: "Tunisia Preparatory School for the Military Academies",
+      subtitle: "Bachelor License in Physics-Chemistry",
+      logo_path: "epams_logo.jpg",
+      alt_name: "EPAMS",
+      duration: "2010 - 2012",
+      descriptions: [
+        "⚡  I have taken varity of courses related to Algebra, Mathematics, Chemistry, Physics, computer science, industrial science etc.",
+      ],
       website_link: "http://www.csn.defense.tn/index.php/en",
     },
   ],
@@ -348,7 +346,7 @@ const certifications = {
       title: "Paratrooper Training",
       subtitle: "Ministery Of Defence Tunisia",
       logo_path: "paratrooper.jpeg",
-      certificate_link:    "",
+      certificate_link: "",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -356,7 +354,7 @@ const certifications = {
       title: "Special Force Training",
       subtitle: "Ministery Of Defence Tunisia",
       logo_path: "navy_commando.jpg",
-      certificate_link:   "",
+      certificate_link: "",
       alt_name: "Ministery Of Defence Tunisia",
       color_code: "#8C151599",
     },
@@ -372,8 +370,7 @@ const certifications = {
       title: "Hazard Communication: Basic",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/105e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/105e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -381,8 +378,7 @@ const certifications = {
       title: "Introduction to Safety Management",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/700e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/700e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -390,8 +386,7 @@ const certifications = {
       title: "Effective Safety Committee Operations",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/701e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/701e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -399,8 +394,7 @@ const certifications = {
       title: "Effective Accident Investigation",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/702e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/702e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -408,8 +402,7 @@ const certifications = {
       title: "Introduction to OSH Training",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/703e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/703e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -417,8 +410,7 @@ const certifications = {
       title: "Hazard Analysis and Control",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/704e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/704e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -426,8 +418,7 @@ const certifications = {
       title: "Hazard Communication Program",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/705e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/705e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -435,8 +426,7 @@ const certifications = {
       title: "Hazard Analysis and Control",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/704e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/704e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -444,8 +434,7 @@ const certifications = {
       title: "Conducting a Job Hazard Analysis (JHA)",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/706e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/706e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -453,8 +442,7 @@ const certifications = {
       title: "Effective OSH Committee Meetings",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/707e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/707e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
     },
@@ -462,18 +450,17 @@ const certifications = {
       title: "Safety Supervision and Leadership",
       subtitle: "OSHA Academy",
       logo_path: "osha.jpg",
-      certificate_link:
-        "https://www.oshatrain.org/courses/mods/712e.html",
+      certificate_link: "https://www.oshatrain.org/courses/mods/712e.html",
       alt_name: "Occupational Safety & Health Training",
       color_code: "#8C151599",
-    }
+    },
   ],
 };
 
 // Experience Page
 const experience = {
   title: "Experience",
- // subtitle: "Work, Internship and Volunteership",
+  // subtitle: "Work, Internship and Volunteership",
   subtitle: "Work and Internship",
   description:
     " I'm quietly confident, naturally curious, and perpetually working on improving my skills.",
@@ -492,7 +479,7 @@ const experience = {
           location: "Remote",
           description:
             "Skilled in building cross-platform solutions for education and delivery. Proven ability to deliver from concept to user testing and deployment.",
-           
+
           color: "#9b1578",
         },
         {
@@ -504,7 +491,7 @@ const experience = {
           location: "Remote",
           description:
             "Building new features, fixing bugs and try to improve overall performance. Now I'm writing a complete Android Application in jetpack compose for products inventory and sales. Interfaced with clients on a weekly basis, providing technological expertise.",
-           
+
           color: "#9b1578",
         },
         {
@@ -518,7 +505,7 @@ const experience = {
             "Responsible for the accountability, mission readiness, and professional development of all personnel within my company. Safety and risk management; Perform facility and field inspections. Provided technical and tactical guidance to help both commanding officers and subordinates in completing several missions. Initiate administrative actions on assigned Soldiers; Responsible for the mission readiness of equipment and property accountability. Professional counseling, evaluations, and promotion determinations.Perform facility and field inspections. Conduct inspections (control safety and security measures). Supervise platoon leaders. ",
           color: "#0879bf",
         },
-        
+
         {
           title: "Platoon Leader",
           company: "Ministry of Defence Tunisia",
@@ -542,11 +529,10 @@ const experience = {
           logo_path: "defence_tunisia.jpg",
           duration: "June 2015 - Aug 2021",
           location: "Bizerte, Tunisia",
-          description:
-            "Well there's a lot to talk about . . . ",
+          description: "Well there's a lot to talk about . . . ",
           color: "#000000",
         },
-       
+
         {
           title: "QHSE Intern",
           company: "Inter-Con Security of Tunisia",
@@ -585,13 +571,11 @@ const projectsHeader = {
   title: "Personal Projects",
   description:
     //"My projects makes use of vast variety of latest technology tools. My best experience is to create an app to get prices in diffrent local stores based on prices added by community .",
- 
- "I have learned that it is usually better to get the job done as soon as possible, then learn from it and improve it over time. This is not an excuse to create crap, but rather a reminder that perfectionism can actually hinder the accomplishment of a goal.",
- 
-    avatar_image_path: "projects_image.svg",
+
+    "I have learned that it is usually better to get the job done as soon as possible, then learn from it and improve it over time. This is not an excuse to create crap, but rather a reminder that perfectionism can actually hinder the accomplishment of a goal.",
+
+  avatar_image_path: "projects_image.svg",
 };
-
-
 
 //I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.
 const publicationsHeader = {
@@ -603,7 +587,7 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-  /*  {
+    /*  {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "N/A",
       createdAt: "2023-03-06T16:26:54Z",
@@ -630,9 +614,9 @@ const contactPageData = {
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-    subtitle:
-      "Benjamin Franklin",
+    title:
+      "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    subtitle: "Benjamin Franklin",
     locality: "Tijna",
     country: "TN",
     region: "Bizerte",
